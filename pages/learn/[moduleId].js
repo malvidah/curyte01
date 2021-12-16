@@ -18,8 +18,7 @@ function ModuleDetailPage(props) {
     }
 
     return (
-        <Fragment>
-            <ModuleSummary title={module.title} />
+        <Fragment> <ModuleSummary title={module.title} />
             <ModuleLogistics />
             <ModuleContent>
             <p>{module.content}</p>

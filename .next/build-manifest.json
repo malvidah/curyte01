@@ -29,25 +29,10 @@
       "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
     ],
-    "/contact": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/contact.js"
-    ],
     "/learn": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/learn.js"
-    ],
-    "/learn/[moduleId]": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/learn/[moduleId].js"
-    ],
-    "/next/dist/pages/_error": [
-      "static/chunks/main.js",
-      "static/chunks/webpack.js",
-      "static/chunks/pages/next/dist/pages/_error.js"
     ]
   },
   "ampFirstPages": []
